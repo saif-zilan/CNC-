@@ -1,4 +1,4 @@
-# CNC-Certainly! Here's the README.md file with all the information in one document:
+# CNC README.md file with all the information in one document:
 
 ```markdown
 # CNC Machine Tool Simulator
